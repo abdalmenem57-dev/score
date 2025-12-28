@@ -1,0 +1,20 @@
+{
+  "matches": [
+    {
+      "match_id": 1,
+      "team1": "Team A",
+      "team2": "Team B",
+      "score_team1": 2,
+      "score_team2": 2,
+      "winner": "Draw"
+    },
+    {
+      "match_id": 2,
+      "team1": "Team C",
+      "team2": "Team D",
+      "score_team1": 0,
+      "score_team2": 0,
+      "winner": "Draw"
+    }
+  ]
+}
