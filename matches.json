@@ -1,4 +1,5 @@
 {
-  "teamA": 0,
-  "teamB": 0
+  "news_message": "أهلاً بكم في التحديث الجديد!",
+  "current_version": "1.2.0",
+  "event_active": true
 }
